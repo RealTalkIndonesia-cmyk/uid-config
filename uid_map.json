@@ -1,0 +1,18 @@
+{
+  "ROLE": {
+    "OWNER": "UID-OWNER",
+    "ADMIN": "UID-ADMIN",
+    "RADIO": "UID-RADIO"
+  },
+  "USER": {
+    "USER1": "UID-USER1",
+    "USER2": "UID-USER2",
+    "USER3": "UID-USER3",
+    "USER4": "UID-USER4",
+    "USER5": "UID-USER5",
+    "USER6": "UID-USER6",
+    "USER7": "UID-USER7",
+    "USER8": "UID-USER8",
+    "USER9": "UID-USER9"
+  }
+}
